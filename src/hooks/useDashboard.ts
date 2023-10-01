@@ -33,7 +33,7 @@ const useDahsboard = () => {
       "ethdpilp": "https://assets.coingecko.com/coins/images/12729/small/index.png",
       "gtc": "https://assets.coingecko.com/coins/images/15810/small/gitcoin.png",
       "index": "https://assets.coingecko.com/coins/images/12729/small/index.png",
-      "steth": "https://assets.coingecko.com/coins/images/13442/small/steth_logo.png",
+      "steth": "https://raw.githubusercontent.com/yearn/yearn-assets/master/icons/multichain-tokens/1/0x06325440D014e39736583c165C2963BA99fAf14E/logo-32.png",
       "sushi": "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png",
       "uma": "https://assets.coingecko.com/coins/images/10951/small/UMA.png",
       "usdc": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png",
@@ -42,6 +42,7 @@ const useDahsboard = () => {
       "xsushi": "https://assets.coingecko.com/coins/images/13725/small/xsushi.png",
       "yam": "https://assets.coingecko.com/coins/images/12530/small/YAM-icon.png",
       "yvusdc": "https://assets.coingecko.com/coins/images/12210/small/yUSD.png",
+      "yamslp": "https://assets.coingecko.com/coins/images/12530/small/YAM-icon.png",
     }
 
     const treasuryAssets:any = treasuryValue.assets || {};
